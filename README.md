@@ -1,4 +1,12 @@
 # DCGAN-Keras  
+<div align="center">
+<img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_0.png" height="330" width="190" >
+
+<img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_1000.png" height="330" width="190" >
+
+<img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_10000.png" height="330" width="190" >
+
+ </div>
 mnist_0.png
 ![GITHUB]( https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_0.png)  
 mnist_1000.png
