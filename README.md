@@ -1,10 +1,10 @@
 # DCGAN-Keras  
 <div align="center">
-<img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_0.png" height="432" width="288" >
+<img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_0.png" height="288" width="432" >
 
-<img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_1000.png" height="432" width="288" >
+<img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_1000.png" height="288" width="432" >
 
-<img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_10000.png" height="432" width="288" >
+<img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_10000.png" height="288" width="432" >
 
  </div>
 mnist_0.png
