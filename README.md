@@ -1,6 +1,6 @@
 # DCGAN-Keras  
 <div align="center">
- <h6>mnist_0</h6>
+ <h3>mnist_0</h3>
 <img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_0.png" height="288" width="432" align="middle">
 
 <img src="https://github.com/gailllelg1/DCGAN-Keras/blob/master/mnist_1000.png" height="288" width="432" align="middle" >
